@@ -3,4 +3,4 @@ This is an implement of json parser according to the [tutorial](https://github.c
 
 This project contains leptjson.c  leptjson.h  test.c
 
-7.13 update tutorial 3 ans pro and comment
+7.31 update tutorial 3 ans pro and comment
